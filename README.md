@@ -4,7 +4,10 @@
 โดยพวกผมทำ Scrollatravel ระบบการจองโรงแรมหรือที่พักอาศัยอย่างบ้านเช่า
 
 ### Document
-<a href = "https://drive.google.com/file/d/1EBEsogzQqi6rNe0Irjwv2KMDsnBEEE5y/view?usp=sharing">Sec3_109_INT205_GroupProject+Document</a>
+<a href = "https://drive.google.com/file/d/1EBEsogzQqi6rNe0Irjwv2KMDsnBEEE5y/view?usp=sharing">Sec3_109_INT205_Document</a>
+
+### Presentation
+<a href = "https://www.canva.com/design/DAEyPHhcogk/oy77iFSpE2FtIl3A-6mJcA/view?utm_content=DAEyPHhcogk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#5">Sec3_109_INT205_Canva</a>
 
 ### Database design
 ![image](https://github.com/KetchupBruh/Scrollatravel/blob/main/Database%20Design.png)
