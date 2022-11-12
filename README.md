@@ -3,5 +3,8 @@
 โดยเนื้อหาของคือให้กำหนดให้ Business Requirement และออกแบบ Database ให้เหมาะสมกับ Business Requirement นั้น
 โดยพวกผมทำ Scrollatravel ระบบการจองโรงแรมหรือที่พักอาศัยอย่างบ้านเช่า
 
+### Document
+<a href = "https://drive.google.com/file/d/1EBEsogzQqi6rNe0Irjwv2KMDsnBEEE5y/view?usp=sharing">Sec3_109_INT205_GroupProject+Document</a>
+
 ### Database design
 ![image](https://github.com/KetchupBruh/Scrollatravel/blob/main/Database%20Design.png)
